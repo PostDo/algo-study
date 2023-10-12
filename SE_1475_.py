@@ -8,6 +8,7 @@ for i in room_number:
             number_count[9] += 1
         else :
             number_count[6] += 1
+            
 
     else :
         number_count[int(i)] += 1
